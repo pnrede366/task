@@ -1,0 +1,14 @@
+.product_img{
+    height: 20rem;
+    width: 100%;
+}
+
+.product_card{
+    /* width: 20vw; */
+    height: 30rem;
+    overflow-y: scroll;
+}
+
+/* body{
+    position: relative
+} */
